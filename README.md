@@ -1,4 +1,61 @@
+<div align="center">
 
+# 👋 Hello, I'm **Pranav Tryambake**
+
+### 💻 Data Science Enthusiast | 🤖 AI & ML Learner | ☁️ Cloud Explorer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Data-Driven+Solutions;Machine+Learning+%7C+Cloud+%7C+Python;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+🔹 🎓 Computer Science student with a passion for **Data Science, Artificial Intelligence, and Cloud Computing**
+
+🔹 💡 I love transforming **data into meaningful insights** and building applications that solve real-world problems.
+
+🔹 🌱 Currently exploring:
+- 🤖 Machine Learning & Deep Learning
+- ☁️ Microsoft Azure & Google Cloud
+- 📊 Data Analytics & Visualization
+- 🌐 Full-Stack Web Development
+
+🔹 🔭 Currently working on:
+- 📈 Data Analytics Projects
+- 🧠 Machine Learning Models
+- 🐍 Python Automation
+- 🌍 Open Source Contributions
+
+🔹 💬 Ask me about:
+- 🐍 Python
+- 🗄️ SQL & Databases
+- 📊 Pandas • NumPy • Matplotlib • Plotly
+- 🤖 Machine Learning
+- 🌐 Git & GitHub
+
+---
+
+## 🎯 Career Goal
+
+🎓 To become a **Data Scientist / AI Engineer** who builds intelligent, scalable, and impactful solutions that make a difference.
+
+---
+
+## 🌟 A Few Things About Me
+
+✨ I enjoy solving coding challenges and learning new technologies.
+
+🎮 Gamer at heart | 🎵 Music lover | ☕ Coffee-powered developer
+
+📚 I believe in **"Learning by Building."**
+
+🚀 **Code • Learn • Build • Repeat**
+
+---
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Pran0406) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-tryambake) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tryambakepranav1@gmail.com) 
 
