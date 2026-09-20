@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="https://portfolio-website-re-j4zu.bolt.host" target="_blank">
+<a href="https://pranav-tryambake.bolt.host" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-161B22?style=for-the-badge&logoColor=00C4FF" alt="Visit My Portfolio">
 </a>
 
